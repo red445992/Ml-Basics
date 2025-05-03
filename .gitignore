@@ -1,1 +1,36 @@
+
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.ipynb_checkpoints
+.env
+.venv
 myenvi/
+*.sqlite3
+
+# Jupyter runtime files
+.ipynb_checkpoints/
+*.checkpoint.ipynb
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Data files (optional — exclude large or sensitive ones)
+*.csv
+*.xlsx
+*.json
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and cache
+*.log
+.cache/
+*.pkl
+*.h5
+*.db
