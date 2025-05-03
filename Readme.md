@@ -1,8 +1,9 @@
 # ML Tutorial - Basics 🐼
 
 ## 📁 Files
--`Numpy.ipynb` - numpy files
+
 - `pandas.ipynb` — pandas files
+- `Numpy.ipynb` - numpy files
 - `demo.csv` — Sample dataset (names and ages)
 - `requirements.txt` — Dependencies
 
