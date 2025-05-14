@@ -2,9 +2,10 @@
 
 ## 📁 Files
 
-- `pandas.ipynb` — pandas files
-- `Numpy.ipynb` - numpy files
-- `demo.csv` — Sample dataset (names and ages)
+- `pandas.ipynb` — [pandas files](./pandas.ipynb)
+- `Numpy.ipynb` - [numpy files] (./Numpy.ipynb)
+- `Matplotlib.ipynb ` - [matplotlib.ipynb](./Matplotlib.ipynb)
+- `demo.csv` — Sample dataset (names and ages)(./demo.csv)
 - `requirements.txt` — Dependencies
 
 ## 🛠️ Setup Instructions
