@@ -6,6 +6,7 @@
 - `Numpy.ipynb` - [numpyfiles](./Numpy.ipynb)
 - `Matplotlib.ipynb ` - [matplotlib.ipynb](./Matplotlib.ipynb)
 - `sklearn.ipynb` - [sklearn.ipynb](./sklearn.ipynb)
+-  `HandWrittenRecognize.ipynb` - [HandWrittenRecognize.ipynb](./HandWrittenRecognize.ipynb)
 - `requirements.txt` — Dependencies
 
 ## 🛠️ Setup Instructions
