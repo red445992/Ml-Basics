@@ -5,7 +5,8 @@
 - `pandas.ipynb` — [pandas files](./pandas.ipynb)
 - `Numpy.ipynb` - [numpyfiles](./Numpy.ipynb)
 - `Matplotlib.ipynb ` - [matplotlib.ipynb](./Matplotlib.ipynb)
-- `demo.csv` — Sample dataset (names and ages)(./demo.csv)
+- `sklearn.ipynb` - [sklearn.ipynb](./sklearn.ipynb)
+-  `HandWrittenRecognize.ipynb` - [HandWrittenRecognize.ipynb](./HandWrittenRecognize.ipynb)
 - `requirements.txt` — Dependencies
 
 ## 🛠️ Setup Instructions
