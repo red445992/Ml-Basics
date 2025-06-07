@@ -2,7 +2,7 @@
 
 Welcome to my journey through the **100 Days of ML Code** challenge — a self-paced roadmap to master the core concepts of Machine Learning, Deep Learning, and Data Science in 100 days. This repo contains my daily notes, code, and learnings.
 
-> 📅 Start Date: [Insert Your Start Date]  
+> 📅 Start Date: [7Th June 2025]  
 > 🚀 Goal: Build strong ML foundations by consistently learning and applying concepts daily.
 
 ---
