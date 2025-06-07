@@ -16,19 +16,21 @@ Original Author: [Avik Jain](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 
 ## 📁 Structure
 
-100-days-ml/
-├── week_00/ # Setup and Basics
-├── week_01/ # Supervised Learning – Linear Regression
-├── week_02/ # Supervised Learning – Classification
-├── week_03/ # Unsupervised Learning
-├── week_04/ # Deep Learning (Basics)
-├── week_05/ # Deep Learning (Intermediate)
-├── week_06/ # Deep Learning (Advanced)
-├── week_07/ # NLP & Reinforcement Learning
-├── week_08/ # Projects & Competitions
-├── notes/ # Conceptual notes and summaries
-├── datasets/ # Sample or small datasets
+```
+100-days-ml
+├── week_00   # Setup and Basics
+├── week_01   # Supervised Learning – Linear Regression
+├── week_02   # Supervised Learning – Classification
+├── week_03   # Unsupervised Learning
+├── week_04   # Deep Learning (Basics)
+├── week_05   # Deep Learning (Intermediate)
+├── week_06   # Deep Learning (Advanced)
+├── week_07   # NLP & Reinforcement Learning
+├── week_08   # Projects & Competitions
+├── notes     # Conceptual notes and summaries
+├── datasets  # Sample or small datasets
 └── README.md # This file
+```
 
 
 ---
